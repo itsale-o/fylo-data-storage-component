@@ -39,8 +39,8 @@ This is what my solution looks like on mobile devices and desktop
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [My live solution](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-solution-MuYoSyGMTZ)
+- Live Site URL: [My live solution](https://itsale-o.github.io/fylo-data-storage-component/)
 
 ## My process
 
